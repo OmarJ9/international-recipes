@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Texas-Style Beef Brisket",
+        "rate": 4.5,
+        "min": 70,
+        "cal": 1135,
+        "difficulty":"Medium",
+        "ingredients": [
+            {
+                "quantity": "3 tablespoons",
+                "name": "Worcestershire sauce"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "chili powder"
+            },
+            {
+                "quantity": "2",
+                "name": "Garlic Cloves"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "Celery Salt"
+            },
+            {
+                "quantity": "1 tablespoon",
+                "name": "Pepper"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "Beef Broth"
+            },
+            {
+                "quantity": "1",
+                "name": "Fresh Beef Brisket"
+            }
+           
+        ],
+        "steps": [
+            "In a large bowl or shallow dish, combine the Worcestershire sauce, chili powder, garlic, celery salt, pepper and, if desired, liquid smoke. Cut brisket in half; add to bowl and turn to coat. Cover and refrigerate overnight.",
+            "Transfer beef to a 5- or 6-qt. slow cooker; add broth and bay leaves. Cover and cook on low for 6-8 hours or until meat is tender.",
+            "For sauce, in a small saucepan, saute onion in oil until tender. Add garlic; cook 1 minute longer. Stir in the remaining ingredients; heat through.",
+            "Remove brisket from the slow cooker; discard bay leaves. Place 1 cup cooking juices in a measuring cup; skim fat. Add to the barbecue sauce. Discard remaining juices.",
+            "Return brisket to the slow cooker; top with sauce mixture. Cover and cook on high for 30 minutes to allow flavors to blend. Thinly slice beef across the grain; serve with sauce."
+        ],
+        "img":"https://www.tasteofhome.com/wp-content/uploads/2018/01/Texas-Style-Beef-Brisket_EXPS_MTBZ20_39534_E02_28_9b-13.jpg?fit=700,1024",
+        "original_website":"https://www.tasteofhome.com/recipes/texas-style-beef-brisket/"
+    },
+    {
+        "name": "Amish Sugar Cookies",
+        "rate": 3.2,
+        "min": 30,
+        "cal": 134,
+        "difficulty":"Easy",
+        "ingredients": [
+            {
+                "quantity": "1 Cup",
+                "name": "Butter"
+            },
+            {
+                "quantity": "1 Cup",
+                "name": "Vegetable Oil"
+            },
+            {
+                "quantity": "1 Cup",
+                "name": "Sugar"
+            },
+            {
+                "quantity": "2",
+                "name": "Large Eggs"
+            },
+            {
+                "quantity": "1/2 Cup",
+                "name": "Flour"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "Baking Soda"
+            }
+           
+        ],
+        "steps": [
+            "Preheat oven to 375°. In a large bowl, beat the butter, oil and sugars. Beat in eggs until well blended. Beat in vanilla. Combine the flour, baking soda and cream of tartar; gradually add to creamed mixture.",
+            "Drop by small teaspoonfuls onto ungreased baking sheets. Bake until lightly browned, 8-10 minutes. Remove to wire racks to cool."
+        ],
+        "img":"https://www.tasteofhome.com/wp-content/uploads/2018/01/Amish-Sugar-Cookies_EXPS_HCBZ22_3935_P2_MD_04_15_5b-1.jpg?resize=700,700",
+        "original_website":"https://www.tasteofhome.com/recipes/amish-sugar-cookies/"
+    },
+    {
+        "name": "Easy Key Lime Pie",
+        "rate": 4.7,
+        "min": 50,
+        "cal": 1334,
+        "difficulty":"Medium",
+        "ingredients": [
+            {
+                "quantity": "1 Package",
+                "name": "Cream Cheese"
+            },
+            {
+                "quantity": "1 Can",
+                "name": "Milk"
+            },
+            {
+                "quantity": "1/2 Cup",
+                "name": "Lime Juice"
+            },
+            {
+                "quantity": "2 Cups",
+                "name": "Whipped Topping"
+            }
+           
+        ],
+        "steps": [
+            "In a large bowl, beat cream cheese until smooth. Beat in milk and lime juice until blended. Transfer to crust. Refrigerate, covered, at least 4 hours. Just before serving, garnish with whipped topping and, if desired, lime slices"
+        ],
+        "img":"https://www.tasteofhome.com/wp-content/uploads/2020/03/Easy-Key-Lime-Pie_EXPS_QEBZ20_247123_E01_24_5b-1.jpg?fit=700,1024",
+        "original_website":"https://www.tasteofhome.com/recipes/easy-key-lime-pie/"
+    },
+    {
+        "name": "Chocolate Peanut Butter Shakes",
+        "rate": 4.9,
+        "min": 20,
+        "cal": 3334,
+        "difficulty":"Easy",
+        "ingredients": [
+            {
+                "quantity": "3/4 Cup",
+                "name": "Milk"
+            },
+            {
+                "quantity": "1/2 Cup",
+                "name": "Ice Cream Choclate"
+            },
+            {
+                "quantity": "1/4 Cup",
+                "name": "Creamy Peanut"
+            },
+            {
+                "quantity": "2 teaspoons",
+                "name": "Choclate Syrup"
+            }
+           
+        ],
+        "steps": [
+            "In a blender, combine the milk, ice cream, peanut butter and syrup; cover and process until smooth. If desired, garnish with whipped cream, peanut butter cups and additional chocolate syrup."
+        ],
+        "img":"https://www.tasteofhome.com/wp-content/uploads/2019/10/Chocolate-Peanut-Butter-Shakes_EXPS_FT19_245766_F_1008_1-10.jpg?fit=700,1024",
+        "original_website":"https://www.tasteofhome.com/recipes/chocolate-peanut-butter-shakes/"
+    }
+    
+]

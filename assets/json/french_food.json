@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Microwaved Chocolate Pots",
+        "rate": 5.0,
+        "min": 10,
+        "cal": 612,
+        "difficulty":"Easy",
+        "ingredients": [
+            {
+                "quantity": "300G",
+                "name": "Dark Chocolate"
+            },
+            {
+                "quantity": "500G",
+                "name": "Fromage"
+            }
+        ],
+        "steps": [
+            "Break dark chocolate into a bowl.",
+            "Microwave on medium (500W) for 2-3 minutes, then stir until smooth.",
+            "Add fromage frais and stir. Divide between 6 pots and eat straightaway."
+        ],
+        "img":"https://www.deliciousmagazine.co.uk/wp-content/uploads/2018/08/521275-1-eng-GB_microwave-chocolate-pots-768x950.jpg",
+        "original_website":"https://www.deliciousmagazine.co.uk/recipes/microwaved-chocolate-pots/"
+    }
+    
+]

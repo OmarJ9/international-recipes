@@ -1,0 +1,150 @@
+[
+    {
+        "name": "Spicy Harira",
+        "rate": 4.9,
+        "min": 45,
+        "cal": 412,
+        "difficulty":"Medium",
+        "ingredients": [
+            {
+                "quantity": "2 tablespoons",
+                "name": "Olive Oil"
+            },
+            {
+                "quantity": "1",
+                "name": "Chopped Onion"
+            },
+            {
+                "quantity": "1",
+                "name": "Garlic Clove"
+            },
+            {
+                "quantity": "1",
+                "name": "Chopped Tomato"
+            },
+            {
+                "quantity": "Large Handful",
+                "name": "Chopped Coriander"
+            },
+            {
+                "quantity": "100g",
+                "name": "Sliced Green Olives"
+            }
+        ],
+        "steps": [
+            "Heat the olive oil in a large casserole over a medium heat, breaking up with a wooden spoon as it fries. Remove the mince with a slotted spoon to a plate and set aside.",
+            "Add the chopped onion to the pan and fry for 8 minutes until starting to soften, then stir in the crushed garlic clove and fry for 2 minutes more. Add a the tin of chopped tomatoes, ras el hanout spice mix and harissa paste to the onion and cook for 5 minutes until slightly reduced.",
+            "Stir in the green olives and a large handful of freshly chopped coriander, then taste and season. Spoon into bowls and top with a dollop of greek yogurt, a few more sliced olives and more chopped fresh coriander."
+        ],
+        "img":"https://www.deliciousmagazine.co.uk/wp-content/uploads/2019/01/harira-soup-768x960.jpg",
+        "original_website":"https://www.deliciousmagazine.co.uk/recipes/spicy-beef-harira/"
+    },
+    {
+        "name": "Moroccan Baked Sardines",
+        "rate": 4.2,
+        "min": 34,
+        "cal": 463,
+        "difficulty":"Easy",
+        "ingredients": [
+            {
+                "quantity": "1 KG",
+                "name": "Fresh Sardins"
+            },
+            {
+                "quantity": "1/4 Cup",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 Tablespoon",
+                "name": "Olive Oil"
+            },
+            {
+                "quantity": "1",
+                "name": "Fresh Lemon"
+            }
+           
+        ],
+        "steps": [
+            "Preheat your oven to 350 F/175 C. Wash the sardines in a bowl of water, scraping off any residual scales with a small knife. Drain the sardines.",
+            "If desired, line a shallow baking dish or rimmed baking sheet with aluminum foil. Generously sprinkle rock salt or coarse sea salt on the bottom and arrange the sardines on top of the salt.",
+        
+             "Brush or drizzle each sardine with a little olive and season generously with freshly ground pepper. If you like, sprinkle additional rock salt over the fish, topping with a few thin slices of fresh lemon.",
+             "Bake the sardines in the middle of the preheated oven for 10 minutes, or just until the skin slides off easily and the fish is tender. For darker coloring, bake in the upper part of the oven.",
+             "Transfer the sardines to a serving platter garnished with lemon wedges. Cumin may be offered at the table as a condiment."
+        ],
+        "img":"https://www.thespruceeats.com/thmb/dFdUgDSbyVDCJE-kdiWlNEp_4I4=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/moroccan-baked-whole-sardines-recipe-2394638-hero-01-5c7da67146e0fb0001d83dc2.jpg",
+        "original_website":"https://www.thespruceeats.com/moroccan-baked-whole-sardines-recipe-2394638"
+    },
+    {
+        "name": "Moroccan Chicken Tagine",
+        "rate": 4.9,
+        "min": 70,
+        "cal": 615,
+        "difficulty":"Hard",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "name": "Chicken"
+            },
+            {
+                "quantity": "1",
+                "name": "Chopped Onion"
+            },
+            {
+                "quantity": "2 teaspoon",
+                "name": "Ground ginger"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1 Cups",
+                "name": "Olive Oil"
+            },
+            {
+                "quantity": "3",
+                "name": "Large Potatoes"
+            }
+           
+        ],
+        "steps": [
+            "Slice the onion instead of chopping it, and spread the onion slices on the bottom of a large tagine. Peel the potatoes and thinly slice them and layer them on top of the onions.",
+            "In a large bowl, combine the chicken, garlic, spices, and parsley. Add the chicken to the tagine Swirl 1/2 cup of water in the bowl to mix it with the spices, and add this water to the tagine. Pour the olive oil over all, and distribute the olives (and preserved lemon, if using) over the chicken and potatoes.",
+            "Cover the tagine and place it on a diffuser over medium-low to medium heat. Allow the tagine ample time to reach a simmer, and then reduce the heat to the lowest temperature necessary to maintain the simmer.",
+            "Interrupt the cooking after 1 hour and 15 minutes to check on the level of liquids. If you feel a little more water is needed, add it to the tagine, keeping in mind that the final sauce should be thick and not watery.",
+            "Continue cooking the tagine, covered, for another 30 minutes or more, until the chicken and potatoes are very tender. Let the tagine rest off the heat for about 10 minutes before serving."
+        ],
+        "img":"https://www.thespruceeats.com/thmb/qXxm7H7Q3rhXUtFcOmJiazcS-jM=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chickentagineolivesGetty606743911-56d453585f9b5879cc8f9a9f.jpg",
+        "original_website":"https://www.thespruceeats.com/chicken-tagine-with-potatoes-and-olives-2394714"
+    },
+    {
+        "name": "Moroccan Tea",
+        "rate": 5.0,
+        "min": 10,
+        "cal": 87,
+        "difficulty":"Easy",
+        "ingredients": [
+            {
+                "quantity": "4 teaspoon",
+                "name": "Gunpowder Tea"
+            },
+            {
+                "quantity": "1 Bunch",
+                "name": "of Fresh Mint"
+            },
+            {
+                "quantity": "4 teaspoon",
+                "name": "Caster Sugar"
+            }
+           
+        ],
+        "steps": [
+            "Heat the kettle until nearly boiling (tea should not be scalded).",
+            "In a teapot, add water to 4 heaped tsp gunpowder tea (see tip) with a bunch of fresh mint and 4 tsp caster sugar. Leave to brew for 2-3 minutes. To serve, stuff an extra mint sprig into each glass, then pour over the tea."
+        ],
+        "img":"https://www.deliciousmagazine.co.uk/wp-content/uploads/2018/09/659156-1-eng-GB_moroccan-tea.jpg",
+        "original_website":"https://www.deliciousmagazine.co.uk/recipes/north-african-style-mint-tea/"
+    }
+    
+]
