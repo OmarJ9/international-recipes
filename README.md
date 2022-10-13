@@ -8,7 +8,7 @@ Star⭐ the repo if you like what you see😉.
 - Search for recipes.
 - Sort recipes in an ascending order.
 - Visit the original website of the recipe with Flutter WebView.
-- Add/Remove/Retrieve Recipes Offline with Fkutter Hive.
+- Add/Remove/Retrieve Recipes Offline with Flutter Hive.
 - Beautiful UI.
 
 ## 📸 Screenshots :
